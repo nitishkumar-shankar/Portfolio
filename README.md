@@ -20,17 +20,17 @@ Welcome to my portfolio website! This site showcases my skills in HTML and CSS, 
 Here are some screenshots of my portfolio:
 
 ### Home Page
-![Home Page](<ss images/ss1.png>)
+![Home Page](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss1.png)
 
 ### About Me Page
-![About Me Page](<ss images/ss2.png>)
+![About Me Page](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss2.png)
 
 ### Education Page
-![Education Page](<ss images/ss4.png>)
+![Education Page](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss4.png)
 
 ### Gallery Page
-![Gallery Page](<ss images/ss3.png>)
+![Gallery Page](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss3.png)
 
 ### Contact Me Page
-![Contact Me Page](<ss images/ss5.png>)
-![Copyrights](<ss images/ss6.png>)
+![Contact Me Page](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss5.png)
+![Copyrights](https://github.com/nitishkumar-shankar/Portfolio/blob/website/ss%20images/ss6.png)
